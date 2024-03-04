@@ -17,7 +17,7 @@ function App() {
   };
 
   return (
-    <div className="flex flex-col items-center min-h-full h-max w-full pt-32 bg-[#124076] overscroll-none">
+    <div className="flex flex-col items-center min-h-full h-max w-full pt-32 bg-[#124076]">
       <div className="w-full max-w-xl p-10 bg-[#F9E897] mb-10 rounded shadow flex flex-col">
         <h1 className="text-3xl font-bold mb-4">Today's Todo List</h1>
         <div className="mb-4 flex justify-between">
